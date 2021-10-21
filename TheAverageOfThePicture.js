@@ -1,7 +1,7 @@
 const fs = require("fs");
 const {getAverageColor} = require("fast-average-color-node");
 
-module.exports = function picture() {
+module.exports = function Picture() {
   const image = process.env.PIC;
 
   if (!image) {

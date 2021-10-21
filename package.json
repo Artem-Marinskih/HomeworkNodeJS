@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Artem-Marinskih/HomeworkNodeJS#readme",
   "devDependencies": {
-    "fast-average-color-node": "2.0.0"
+    "fast-average-color-node": "2.0.0",
+    "skypro-hello-name": "^1.0.0"
   }
 }
